@@ -1,8 +1,11 @@
 # arasTiR/AKR(AKT)
  Eğitimsel anket uygulaması arasTiR/AKR Galaxy Store'da!
-
+ 
+<div align=center>
 
 <a href="https://galaxystore.samsung.com/detail/com.arasTiR.AnKeteR" target="_blank"><img src="https://d3unf4s5rp9dfh.cloudfront.net/SDP/GalaxyStore_English.png" alt="arasTiR" width="200"/></a>
+
+</div>
 
 <div align=center>
   
