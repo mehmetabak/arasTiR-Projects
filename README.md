@@ -3,7 +3,7 @@
  
 <div align=center>
  
- Eğitimsel anket uygulaması arasTiR/AKR Galaxy Store'da!
+ Eğitimsel anket uygulaması arasTiR/AKR Galaxy Store'da! ||
  Educational survey and quiz application arasTiR/AKR is on Galaxy Store!
  
 </div>
