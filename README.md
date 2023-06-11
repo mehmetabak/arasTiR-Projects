@@ -4,6 +4,13 @@
 
 </div>
 
+
+<div align=center>
+ 
+ arasTiR; Gelişmiş bir anket oluşturucu ve yanıtlayıcıdır (Oluşturulan anketleri, kısa sınavları vb. yanıtlayabilirsiniz). Yerel okullar için yapılmıştır.
+ 
+</div> 
+
 <div align=center>
  
  arasTiR; It is an advanced survey generator and answerer(You can answer the created surveys, quizzes etc.). It's made for local schools.
