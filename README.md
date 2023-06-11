@@ -11,16 +11,10 @@
  
 </div> 
 
-<div align=center>
- 
- arasTiR; It is an advanced survey generator and answerer(You can answer the created surveys, quizzes etc.). It's made for local schools.
- 
-</div> 
 
 <div align=center>
  
  Eğitimsel anket uygulaması arasTiR/AKR Galaxy Store'da! ||
- Educational survey and quiz application arasTiR/AKR is on Galaxy Store!
  
 </div>
  
@@ -37,5 +31,17 @@
 <img src="https://img.samsungapps.com/productNew/000006342365/ENG/ScreenShot_20220606075816050_871_1470_6.png" alt="arasTiR/AKR" width="250"/>
 
 <img src="https://img.samsungapps.com/productNew/000006342365/ENG/ScreenShot_20220606075816050_871_1470_1.png" alt="arasTiR/AKR" width="250"/>
+ 
+</div>
+
+<div align=center>
+ 
+ arasTiR; It is an advanced survey generator and answerer(You can answer the created surveys, quizzes etc.). It's made for local schools.
+ 
+</div> 
+
+<div align=center>
+ 
+ Educational survey and quiz application arasTiR/AKR is on Galaxy Store!
  
 </div>
