@@ -1,6 +1,11 @@
 # arasTiR/AKR(AKT)
+
+<div align=center>
+ 
  arasTiR; It is an advanced survey generator and answerer(You can answer the created surveys, quizzes etc.). It's made for local schools.
  
+</div> 
+
 <div align=center>
  
  Eğitimsel anket uygulaması arasTiR/AKR Galaxy Store'da! ||
