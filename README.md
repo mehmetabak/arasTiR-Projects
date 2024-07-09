@@ -4,19 +4,19 @@
 
 </div>
 
-
+## Türkçe
 <div align=center>
  
  arasTiR; Gelişmiş bir anket oluşturucu ve yanıtlayıcıdır (Oluşturulan anketleri, kısa sınavları vb. yanıtlayabilirsiniz). Yerel okullar için yapılmıştır.
  
 </div> 
 
-
+## English
 <div align=center>
  
- Eğitimsel anket uygulaması arasTiR/AKR Galaxy Store'da! ||
+ arasTiR; It is an advanced survey generator and answerer(You can answer the created surveys, quizzes etc.). It's made for local schools.
  
-</div>
+</div> 
  
 <div align=center>
 
