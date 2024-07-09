@@ -35,9 +35,9 @@
 </div>
 
 # Projects to be added soon:
-- IoT/fESP (IoT Control System)
+- IoT / fESP (IoT Control System)
 - Halimi Söyle (Copilot Based)
-- Basic Test App with Notes / KPSS
+- Basic Test App with Notes / fKPSS
 - arasTiR t00lkit (Unfinished - Archive Version)
 - arasTiR F (Archive Version)
 - eMoR (Archive Version)
