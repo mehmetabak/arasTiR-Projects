@@ -1,6 +1,6 @@
 <div align=center>
  
-# arasTiR/AKR(AKT)
+# arasTiR/AKR(AKT) - First Main Project
 
 </div>
 
@@ -34,14 +34,11 @@
  
 </div>
 
-<div align=center>
- 
- arasTiR; It is an advanced survey generator and answerer(You can answer the created surveys, quizzes etc.). It's made for local schools.
- 
-</div> 
+# Projects to be added soon:
+- IoT/fESP (IoT Control System)
+- Halimi Söyle (Copilot Based)
+- Basic Test App with Notes / KPSS
+- arasTiR t00lkit (Unfinished - Archive Version)
+- arasTiR F (Archive Version)
+- eMoR (Archive Version)
 
-<div align=center>
- 
- Educational survey and quiz application arasTiR/AKR is on Galaxy Store!
- 
-</div>
