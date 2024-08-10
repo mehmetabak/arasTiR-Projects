@@ -26,7 +26,7 @@
 
 <div align=center>
   
-<img src="https://img.samsungapps.com/productNew/000006342365/ENG/ScreenShot_20220606075816050_871_1470_3.png" alt="arasTiR/AKR" width="250"/>
+<img src="https://i.imgur.com/u8NWEaI.png" alt="arasTiR/AKR" width="250"/>
 
 <img src="https://img.samsungapps.com/productNew/000006342365/ENG/ScreenShot_20220606075816050_871_1470_6.png" alt="arasTiR/AKR" width="250"/>
 
